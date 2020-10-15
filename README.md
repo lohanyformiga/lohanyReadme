@@ -19,6 +19,6 @@
 ```
 <hr>
 <h1 align="center">
-<img alt="lohany"src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" />
+<img alt="Duduxs" src="https://github-readme-stats.codestackr.vercel.app/api?username=lohanyformiga&show_icons=true&hide_border=true&theme=dark" />
 </h1>
 
