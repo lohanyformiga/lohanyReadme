@@ -9,7 +9,7 @@
 ```javascript
   async user.index({
    🐜 name: 'Lohany Formiga',
-    age: 26,
+   ✔️ age: 26,
    🌴 city: 'Recife, PE',
    👩‍💻 stack: ['Javascript','Html','CSS','Bootsrap/Design','(UI/UX)'],
    📷 hobby: 'photograph','series'
