@@ -4,7 +4,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=green&link=https://whats.link/lohanyformiga)](https://https://api.whatsapp.com/send?phone=5561994326210)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Email&logoColor=white&color=red&link=mailto:lohany.formiga@hotmail.com)](mailto:lohany.formiga@hotmail.com)
 [![Behance Badge](https://img.shields.io/badge/-Behance.-6633cc?style=flat-square&logo=Behanceappveyor&logoColor=white&color=blue&link=https://sourcerer.io/lohanyformiga)](https://www.behance.net/lohanyformiga)
-[![Medium Badge](https://img.shields.io/badge/-Medium-6633cc?style=flat-square&logo=Elixir&logoColor=white&color=black&link=https://medium.com/@lohanyformiga)](https://medium.com/@lohanyformiga)
+[![Medium Badge](https://img.shields.io/badge/-Medium-6633cc?style=flat-square&logo=Elixir&logoColor=white&color=black&link=https://medium.com/@lohanyformigaUXDESIGNER)](https://medium.com/@lohanyformigaUXDESIGNER)
 
 ```javascript
   async user.index({
