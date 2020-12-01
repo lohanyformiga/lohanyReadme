@@ -8,11 +8,10 @@
 ```javascript
 Meu nome é Lohany Formiga e sou estudante de desenvolvimento front-end na {Reprograma}
 
-   🐜 name: 'Lohany Formiga',
-   ✔️ age: 26,
-   🌴 city: 'Recife, PE',
-   👩‍💻 Linguagens: Javascript'Html'CSS'React'Bootsrap/Design'UI/UX'
-   📷 hobby: 'photograph','series'
+   🐜 name: Lohany Formiga
+   ✔️ age:  26,
+   🌴 city: Recife, PE
+   👩‍💻 Linguagens: Javascript'Html'CSS'React'Bootsrap/Design'UI/UX
   });
   
   return response.status(201).send();
