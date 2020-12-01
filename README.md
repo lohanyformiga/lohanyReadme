@@ -6,7 +6,8 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-6633cc?style=flat-square&logo=Elixir&logoColor=white&color=black&link=https://medium.com/@lohanyformigaUXDESIGNER)](https://medium.com/@lohanyformigaUXDESIGNER)
 
 ```javascript
-  async user.index({
+Meu nome é Lohany Formiga e sou estudante de desenvolvimento front-end na {Reprograma}
+
    🐜 name: 'Lohany Formiga',
    ✔️ age: 26,
    🌴 city: 'Recife, PE',
