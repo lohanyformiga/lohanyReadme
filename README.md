@@ -11,7 +11,7 @@
    🐜 name: 'Lohany Formiga',
    ✔️ age: 26,
    🌴 city: 'Recife, PE',
-   👩‍💻 stack: ['Javascript','Html','CSS','Bootsrap/Design','(UI/UX)'],
+   👩‍💻 Linguagens: Javascript'Html'CSS'React'Bootsrap/Design'(UI/UX)'],
    📷 hobby: 'photograph','series'
   });
   
