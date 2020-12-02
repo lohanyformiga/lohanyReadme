@@ -1,4 +1,3 @@
-# Eu sou Lohany Formiga, Desenvolvedora Front-End <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 ### Hi there 👋
 ## I'm Lohany Formiga <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
