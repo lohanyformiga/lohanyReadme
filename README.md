@@ -11,13 +11,10 @@ Meu nome é Lohany Formiga e sou estudante de desenvolvimento Front-End na {repr
 [![Linkedin Badge](https://img.shields.io/badge/-lohanyformiga-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lohanyformiga/)](https://www.linkedin.com/in/lohanyformiga/) 
 [![Behance Badge](https://img.shields.io/badge/-lohany.formiga@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lohany.formiga@hotmail.com)](mailto:lohany.formiga@hotmail.com)
 
+[![Site Badge](https://img.shields.io/badge/-lohanyformiga-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://app.netlify.com/sites/desenvolvedora-lohanyformiga/overview)](https://app.netlify.com/sites/desenvolvedora-lohanyformiga/overview) 
+
+
 ## My Skills
-<img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="ruby" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 
 
 
