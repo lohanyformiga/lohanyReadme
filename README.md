@@ -10,7 +10,7 @@ Meu nome é Lohany Formiga e sou estudante de desenvolvimento Front-End na {repr
  
 [![Linkedin Badge](https://img.shields.io/badge/-lohanyformiga-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lohanyformiga/)](https://www.linkedin.com/in/lohanyformiga/) 
 [![Behance Badge](https://img.shields.io/badge/-lohany.formiga@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lohany.formiga@hotmail.com)](mailto:lohany.formiga@hotmail.com)
-[![Meu Site Badge](https://img.shields.io/badge/-Meu Site-6633cc?style=flat-square&logo=Site&logoColor=white&link=https://app.netlify.com/sites/desenvolvedora-lohanyformiga/overview)](https://app.netlify.com/sites/desenvolvedora-lohanyformiga/overview) 
+[![MeuSite Badge](https://img.shields.io/badge/-MeuSite-6633cc?style=flat-square&logo=Site&logoColor=white&link=https://app.netlify.com/sites/desenvolvedora-lohanyformiga/overview)](https://app.netlify.com/sites/desenvolvedora-lohanyformiga/overview) 
 
 
 ## My Skills
