@@ -8,9 +8,9 @@ Meu nome é Lohany Formiga e sou estudante de desenvolvimento Front-End na {repr
 
 ## Connect with me:
 Reach me out 👇🏼
-
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/)
- [![Behance Badge](https://www.behance.net/lohanyformiga/https://www.behance.net/lohanyformiga)](https://https://www.behance.net/lohanyformiga) 
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-lohanyformiga-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/lohanyformiga/)](https://https://www.linkedin.com/in/lohanyformiga/) 
+[![Behance Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
 
 ## My Skills
 <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
