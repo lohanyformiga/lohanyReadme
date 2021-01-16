@@ -7,15 +7,11 @@ Meu nome é Lohany Formiga e sou estudante de desenvolvimento Front-End na {repr
 - I have been learnig more about Javascript, React :sparkling_heart:
 
 ## Connect with me:
-<a href="https://https://www.linkedin.com/in/lohanyformiga/" target="_blank">
-<img align="center" alt="LohanyFormiga-linkedin" height="30" width="40" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
-</a>
-<a href="https://www.behance.net/lohanyformiga" target="_blank">
-<img align="center" alt="LohanyFormiga-Behance" height="30" width="40" src="https://devicon.dev/devicon.git/icons/behance/behance-original.svg" style="max-width:100%;">
-</a>
-<a href="https://github.com/lohanyformiga">
-<img align="center" alt="LohanyFormiga-github" height="30" width="40" src="https://devicon.dev/devicon.git/icons/github/github-original.svg" style="max-width:100%;">
-</a>
+Reach me out 👇🏼
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)
+ [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/papodedev/) 
+ [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=[https://codepen.io/isadorastan](https://codepen.io/isadorastan))](https://codepen.io/isadorastan)
 
 ## My Skills
 <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
