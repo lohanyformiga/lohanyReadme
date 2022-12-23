@@ -2,7 +2,7 @@
 ## I'm Lohany Formiga <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 ### Hi there, welcome!👋
 Meu nome é Lohany Formiga e sou estudante de desenvolvimento Front-End na {reprograma}
-- I live in :brazil:, Recife-PE :sunglasses::sunrise:
+- I live in :brazil:, Brasilia-DF :sunglasses::sunrise:
 - I have been working on Developer Front-End :computer:
 - I have been learnig more about Javascript, React :sparkling_heart:
 
